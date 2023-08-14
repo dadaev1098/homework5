@@ -52,7 +52,7 @@ public class Main {
             System.out.println("работа");
         }
 
-        }
+    }
     public static void task5() {
         System.out.println("task5");
         int age = 10;
@@ -63,7 +63,7 @@ public class Main {
         }else if (age >= 14){
             System.out.println("он может кататься без сопровождения взрослого");
         }
-        
+
     }
     public static void task6(){
         System.out.println("task6");
@@ -95,7 +95,7 @@ public class Main {
 
     }
 
-    }
+}
 
 
 
